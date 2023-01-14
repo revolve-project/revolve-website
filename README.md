@@ -1,3 +1,3 @@
-# Revolve Website Main Repository
+# revolve-website main repository
 
 Hosted on https://revolve-studio.com
