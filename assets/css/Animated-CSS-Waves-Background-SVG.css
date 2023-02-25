@@ -51,8 +51,6 @@
 
 .waveAnimation .waveTop {
   animation: move-wave 3s;
-  -webkit-animation: move-wave 3s;
-  -webkit-animation-delay: 1s;
   animation-delay: 1s;
 }
 
